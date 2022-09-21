@@ -1,4 +1,3 @@
-# practice-case1-IYKRA
+# File Uploader to Google Cloude Storage
 
-## Upload file from Internet to Google Cloude Storage
-
+A file uploader via URL to Google Cloud Storage (GCS) built on Python
